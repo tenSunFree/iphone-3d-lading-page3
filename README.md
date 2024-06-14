@@ -6,7 +6,7 @@
 
 取材自以下資源
 --------
-codebucks27/3D-Landing-page-for-Apple-iPhone           
+3D-Landing-page-for-Apple-iPhone           
 https://github.com/ddVital/IPhone-3d-lading-page      
 	
 台積電           
